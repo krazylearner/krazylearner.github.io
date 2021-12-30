@@ -22,6 +22,14 @@ Server Side: Node.js, Mongodb, Postgres db, Mysql
 Frontend : Angular, Javascript, HTML, CSS, SCSS, Webpack
 Tools : Git , Github, Gitlab, NVM, Visual Studio Code, Retool 
 
+Contact Me
+-------------
+
+![t](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![t](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![t](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![t](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+
 
 
 
