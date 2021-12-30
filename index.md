@@ -9,7 +9,7 @@ I design and build scalable backend systems for both small and large companies.
 
 Experience
 -------------
-I have 10+ years of experience in programming and Software Development.
+I have 10+ years of experience in programming and software development.
 
 Portfolio
 -------------
@@ -20,7 +20,13 @@ Tech Stack
 
 Server Side: Node.js, Mongodb, Postgres db, Mysql
 Frontend : Angular, Javascript, HTML, CSS, SCSS, Webpack
-Tools : Git , Github, Gitlab, NVM, Visual Studio Code, Retool 
+Tools : Git , Github, Gitlab, NVM, Visual Studio Code, Retool
+
+Other Interests
+------------
+
+Though I am programmer by heart , I also have deep interest in areas like marketing and user expereince. 
+A succesfull product is a mix of both engineering and marketing systems working together flawlessly .
 
 Contact Me
 -------------
