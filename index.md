@@ -1,9 +1,5 @@
 
-<table style="border:0;">
-  <tr>
-    <td>1</td>
-    <td>
-    # krazylearner.github.io
+# krazylearner.github.io
 
 Hey I am Ankur a.k.a krazylearner
       
@@ -25,9 +21,6 @@ Tech Stack
 Server Side: Node.js, Mongodb, Postgres db, Mysql
 Frontend : Angular, Javascript, HTML, CSS, SCSS, Webpack
 Tools : Git , Github, Gitlab, NVM, Visual Studio Code, Retool 
-    </td>
-  </tr>
-</table>
 
 
 
