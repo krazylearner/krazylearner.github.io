@@ -9,7 +9,7 @@ I design and build scalable backend systems for both small and large companies.
 
 Experience
 -------------
-I have 10+ years of experience in programming.
+I have 10+ years of experience in programming and Software Development.
 
 Portfolio
 -------------
