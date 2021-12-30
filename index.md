@@ -1,12 +1,11 @@
-# krazylearner.github.io
-
-Hey I am Ankur a.k.a krazylearner
 
 <table>
   <tr>
     <td>1</td>
     <td>
-    
+    #krazylearner.github.io
+
+Hey I am Ankur a.k.a krazylearner
 What I do
 -------------
 I design and build scalable backend systems for both small and large companies.
