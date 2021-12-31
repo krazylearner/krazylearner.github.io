@@ -24,8 +24,8 @@ ActiveCampaign, Heroku, Amazon AWS, Digital Ocean, Jira, Atlas etc etc
 Other Interests
 ------------
 
-Though I am programmer by heart , I also have deep interest in areas like marketing and user expereince. 
-A succesfull product is a mix of both engineering and marketing systems working together flawlessly .
+Though I am a programmer by heart , I also have deep interest in areas like marketing and user expereince. 
+A succesfull product is a mix of both engineering and marketing systems working together flawlessly.
 
 Contact
 -------------
