@@ -18,7 +18,8 @@ Over the years I have worked with companies and projects generating millions of 
 Tech Stack
 -------------
 
-Node.js, Mongodb, Postgres db, Mysql, Angular, Javascript, HTML, CSS, SCSS, Webpack, Git , Github, Gitlab, NVM, Visual Studio Code, Retool, Google Appscripts
+Node.js, Mongodb, Postgres db, Mysql, Angular, Javascript, HTML, CSS, SCSS, Webpack, Git , Github, Gitlab, NVM, Visual Studio Code, Retool, Google Appscripts, GA, GTM
+ActiveCampaign etc etc
 
 Other Interests
 ------------
