@@ -19,7 +19,7 @@ Tech Stack
 -------------
 
 Node.js, Mongodb, Postgres db, Mysql, Angular, Javascript, HTML, CSS, SCSS, Webpack, Git , Github, Gitlab, NVM, Visual Studio Code, Retool, Google Appscripts, GA, GTM
-ActiveCampaign etc etc
+ActiveCampaign, Heroku, Amazon AWS, Digital Ocean etc etc
 
 Other Interests
 ------------
