@@ -1,7 +1,7 @@
 
 # krazylearner.github.io
 
-Hey I am Ankur a.k.a krazylearner.
+Hey I am Ankur a.k.a krazylearner ,  father of two kids and husband of a beautiful wife. I am also the owner of Advik Associates a tech consultancy firm based in [Agra](https://agra.nic.in/) providing consultancy and software development services all over the world.
 
       
 What I do
