@@ -1,11 +1,12 @@
 
 # krazylearner.github.io
 
-Hey I am Ankur a.k.a krazylearner
+Hey I am Ankur a.k.a krazylearner.
+
       
 What I do
 -------------
-I design and build scalable backend systems for both small and large companies.
+I design and build scalable backend systems for both small and large companies. I create well-crafted clean code by applying  [**KISS**](https://en.wikipedia.org/wiki/KISS_principle) and [**YAGNI**](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it) principles.
 
 Experience
 -------------
