@@ -10,7 +10,7 @@ I design and build scalable backend systems for both small and large companies. 
 
 Experience
 -------------
-I have 10+ years of experience in programming and software development.
+I have 12+ years of experience in programming and software development.
 
 Portfolio
 -------------
@@ -30,8 +30,6 @@ A successful  product is a mix of both engineering and marketing systems working
 
 Contact
 -------------
-
-Feel free to contact me for any work related enquiries through these links below.
 
 [![t](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankurdev)
 [![t](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krazylearner)
